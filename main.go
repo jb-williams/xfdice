@@ -5,11 +5,10 @@ import (
 	"fmt"
 	"math/rand"
 	"os"
-	"sync"
 	"time"
 )
 
-var DoOnce sync.Once
+// var DoOnce sync.Once
 var numRolls int
 
 // different dice
