@@ -1,3 +1,3 @@
-module github.com/jb-williams/dice-rollerxf
+module xfdice
 
-go 1.21.6
+go 1.23.4
